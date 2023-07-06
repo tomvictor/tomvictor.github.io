@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Tom Victor
 content: >
   # I am here for your personal business
 
@@ -8,6 +8,7 @@ content: >
   in various fields by
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/tom.jpeg
+videoThumb: images/hero/build-from-zero.jpg
+videoURL: https://www.youtube.com/watch?v=5QXVlWzjjnw
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
