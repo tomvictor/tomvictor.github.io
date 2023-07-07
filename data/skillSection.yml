@@ -9,9 +9,9 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Python
+    percent: 90
+  - title: C
+    percent: 80
+  - title: Go
+    percent: 70
