@@ -67,8 +67,8 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "Makervillage, Kochi, India."
-email = "info@technoripo.com"
-openingHours = "Open from 10am to 6pm (execpt Stturday & Sundays)"
+email = "info@technorip.com"
+openingHours = "Open from 10am to 6pm (except Saturday and Sundays)"
 phone = "+(448) 833 5272 332"
 
 [params.map]
