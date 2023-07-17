@@ -1,20 +1,19 @@
 ---
 enable: true
-topTitle: About
+topTitle: What we do 
 title: >
-  ## About Us
+  ## Leveraging AI and data-driven insights
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  we empower businesses to optimize their operations, enhance productivity, and unlock new opportunities for growth..
 content: >
-  ### We design and build ultimate things.
+  ### Our fully in-house developed hardware platform.
 
-  We love to work in User Experience & User Interface designing. Because we love
-  to solve the design problem and find easy and better solutions to solve it. We always
-  try my best to make good user interface with the best user experience. We have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  Integrate seamlessly with AI and data science technologies.
+  These solutions cater to a wide range of applications in logistics and asset management.
+  By harnessing the power of IoT, we provide real-time monitoring, predictive analytics, and automation capabilities to streamline processes
+  improve decision-making, and drive operational excellence..
+button1Name: Contact Us
+button2Name: Download Report
 button1Target: contact
 button2Target: contact
 image: images/about/tom-work.jpeg

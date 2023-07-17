@@ -2,13 +2,13 @@
 enable: true
 topTitle: Hello, welcome to Technorip
 content: >
-  # We are here for your personal business
+  # Revolutionizing logistics and asset management 
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  At Technorip, we combine the power of Artificial Intelligence (AI), Data Science, and the Internet of Things (IoT)
+  to deliver intelligent and efficient solutions
+buttonName: Contact Us
 buttonURL: contact
 image: images/hero/tom.jpeg
-videoThumb: images/hero/build-from-zero.jpg
+videoThumb: images/hero/logo.png
 videoURL: https://www.youtube.com/watch?v=j5BXCnGWjtc
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
