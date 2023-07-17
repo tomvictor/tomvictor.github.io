@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Our Timeline
 title: >
   ## My Expertises
 
@@ -8,8 +8,8 @@ title: >
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Awards
+tab2Name: Projects
 tab1Target: education
 tab2Target: experience
 

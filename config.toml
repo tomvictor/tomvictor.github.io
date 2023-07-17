@@ -21,7 +21,7 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "Timeline"
 url = "#resume"
 weight = 5
 [[menu.main]]
