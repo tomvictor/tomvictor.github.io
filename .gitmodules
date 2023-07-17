@@ -2,6 +2,6 @@
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 
-[submodule "themes/custom"]
-	path = themes/custom
+[submodule "themes/portio"]
+	path = themes/portio
 	url = https://github.com/Technorip/theme
