@@ -1,7 +1,7 @@
 baseURL = "https://technorip.github.io/"
 languageCode = "en-us"
 paginate = 6
-theme = "custom"
+theme = "portio"
 title = "Technorip"
 # Main Menu
 [[menu.main]]
