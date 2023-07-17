@@ -73,8 +73,8 @@ phone = "+(448) 833 5272 332"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+latitude = "10.055828850762236"
+longitude = "76.35411155782921"
 pinImage = "images/pin.png"
 
 # Social icons
