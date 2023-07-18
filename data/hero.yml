@@ -8,7 +8,6 @@ content: >
   to deliver intelligent and efficient solutions
 buttonName: Contact Us
 buttonURL: contact
-image: images/hero/tom.jpeg
-videoThumb: images/hero/logo.png
+image: images/hero/kranioz-dash-board2.jpeg #actual: 617x826
+videoThumb: images/hero/technorip-news-thump.png
 videoURL: https://www.youtube.com/watch?v=j5BXCnGWjtc
-# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

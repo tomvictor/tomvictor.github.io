@@ -6,12 +6,12 @@ content: >
 
   My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
 
-image: images/skill/skill_image.jpg
+image: images/skill/technorip-skills.jpg # 566x759
 
 skill:
-  - title: Python
+  - title: Software Development
     percent: 90
-  - title: C
+  - title: DevOps
     percent: 80
-  - title: Go
-    percent: 70
+  - title: IoT
+    percent: 80
