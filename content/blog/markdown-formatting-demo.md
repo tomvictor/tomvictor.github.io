@@ -5,6 +5,7 @@ featureImage: images/allpost/allPost-6.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: website
 categories: blog
+draft: true
 ---
 
 This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)

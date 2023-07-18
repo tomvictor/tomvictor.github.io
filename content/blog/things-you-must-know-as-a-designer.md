@@ -6,6 +6,7 @@ postImage: images/single-blog/feature-image.jpg
 tags: mobile
 categories: blog
 toc: true
+draft: true
 ---
 
 ## Introduction
