@@ -15,9 +15,9 @@ params:
         imageHeight: 120 # custom size
         buttons:
           - name: Posts
-            url: "/posts"
+            url: "https://buildfromzero.com/blog"
           - name: Tags
-            url: "/tags"
+            url: "https://buildfromzero.com/tags"
 
     socialIcons:
       - name: github
