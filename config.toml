@@ -1,0 +1,4 @@
+baseURL = 'http://tomvictor.github.io/'
+languageCode = 'en-us'
+title = 'tomvictor.dev'
+theme = "PaperMod"
