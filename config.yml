@@ -18,6 +18,8 @@ params:
             url: "https://buildfromzero.com/blog"
           - name: Tags
             url: "https://buildfromzero.com/tags"
+          - name: Email
+            url: "mailto:mail@tomvictor.dev"
 
     socialIcons:
       - name: github
