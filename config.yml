@@ -1,0 +1,28 @@
+baseURL: "http://tomvictor.github.io/"
+title: tomvictor.dev
+paginate: 5
+theme: PaperMod
+languageCode: 'en-us'
+
+params:
+    profileMode:
+        enabled: true
+        title: "Tom Victor." # optional default will be site title
+        subtitle: "Hi, I am an engineer, entrepreneur, and technology enthusiast."
+        imageUrl: "https://avatars.githubusercontent.com/u/14200125?v=4" # optional
+        imageTitle: "Tom@Goa" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+          - name: Posts
+            url: "/posts"
+          - name: Tags
+            url: "/tags"
+
+    socialIcons:
+      - name: github
+        url: "https://github.com/tomvictor"
+      - name: youtube
+        url: "https://youtube.com/@buildfromzero"
+      - name: twitter
+        url: "https://x.com/@vjtomvictor"
