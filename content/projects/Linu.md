@@ -1,1 +1,1 @@
-# Linu 
+# Linu - Mighty serial monitor for mac
