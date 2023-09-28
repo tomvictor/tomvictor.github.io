@@ -14,10 +14,10 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
+          - name: Projects
+            url: "projects"
           - name: Posts
             url: "https://buildfromzero.com/blog"
-          - name: Tags
-            url: "https://buildfromzero.com/tags"
           - name: Email
             url: "mailto:mail@tomvictor.dev"
 
