@@ -1,7 +1,7 @@
 ---
 title: "Iotcore - Python MQTT Broker and IoT Features for Django and FastAPI"
 date: "2023-09-18"
-description: ""
+# description: ""
 # tags: ["Rust", "Python", "FastAPI", "MQTT"]
 categories: ["projects"]
 series: ["Themes Guide"]

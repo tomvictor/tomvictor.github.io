@@ -1,7 +1,7 @@
 ---
 title: "Linu - Mighty serial monitor for mac"
 date: "2023-06-20"
-description: ""
+# description: ""
 # tags: ["Rust", "Python", "FastAPI", "MQTT"]
 categories: ["projects"]
 series: ["Themes Guide"]
