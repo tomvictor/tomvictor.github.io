@@ -4,7 +4,7 @@ date: "2023-09-18"
 # description: ""
 # tags: ["Rust", "Python", "FastAPI", "MQTT"]
 categories: ["projects"]
-series: ["Themes Guide"]
+# series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
 # ShowToc: true
 # TocOpen: true
