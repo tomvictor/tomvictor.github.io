@@ -8,6 +8,7 @@ categories: ["projects"]
 aliases: ["migrate-from-jekyl"]
 # ShowToc: true
 # TocOpen: true
+ShowBreadCrumbs: true
 ---
 
 [![.github/workflows/CI.yml](https://github.com/tomvictor/iotcore/actions/workflows/CI.yml/badge.svg)](https://github.com/tomvictor/iotcore/actions/workflows/CI.yml)
