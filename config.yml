@@ -4,6 +4,8 @@ paginate: 5
 theme: PaperMod
 languageCode: 'en-us'
 
+googleAnalytics:  G-DN3BSGRTR7
+
 params:
     profileMode:
         enabled: true
@@ -17,9 +19,13 @@ params:
           - name: Projects
             url: "projects"
           - name: Posts
-            url: "https://buildfromzero.com/blog"
+            url: "posts"
           - name: Email
             url: "mailto:mail@tomvictor.dev"
+    ShowShareButtons: true
+    ShowCodeCopyButtons: true
+    ShowPostNavLinks: true
+  
 
     socialIcons:
       - name: github
