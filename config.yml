@@ -10,7 +10,9 @@ params:
     profileMode:
         enabled: true
         title: "Tom Victor" # optional default will be site title
-        subtitle: "Hi, I am an engineer, entrepreneur, and technology enthusiast."
+        subtitle: "
+        #entrepreneur #engineer #techenthusiast #developer\n\n
+        "
         imageUrl: "https://avatars.githubusercontent.com/u/14200125?v=4" # optional
         imageTitle: "Tom@Goa" # optional
         imageWidth: 120 # custom size
