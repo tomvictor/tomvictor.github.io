@@ -14,6 +14,8 @@ draft: false
 
 
 
+<!-- ![Zephyr](content/posts/images/zephyr.png) -->
+
 ![Zephyr](./zephyr.png)
 
 ## what is Zephyr?

@@ -2,7 +2,7 @@
 title: "How to implement command design pattern in python?"
 date: "2021-12-08"
 # description: "Implementation of command design pattern in python"
-# tags: ["Tutorial", "Python", "Pattern"]
+tags: ["Tutorial", "Python", "Patterns"]
 categories: ["posts"]
 # series: ["Themes Guide"]
 aliases: ["migrate-from-jekyl"]
