@@ -22,7 +22,7 @@ params:
             url: "posts"
           - name: Email
             url: "mailto:mail@tomvictor.dev"
-    ShowShareButtons: true
+    # ShowShareButtons: true
     ShowCodeCopyButtons: true
     # ShowPostNavLinks: true
   
