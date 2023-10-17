@@ -24,7 +24,7 @@ params:
             url: "mailto:mail@tomvictor.dev"
     ShowShareButtons: true
     ShowCodeCopyButtons: true
-    ShowPostNavLinks: true
+    # ShowPostNavLinks: true
   
 
     socialIcons:
