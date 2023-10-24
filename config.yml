@@ -22,6 +22,8 @@ params:
             url: "projects"
           - name: Posts
             url: "posts"
+          - name: About
+            url: "about"
           - name: Email
             url: "mailto:mail@tomvictor.dev"
     # ShowShareButtons: true
