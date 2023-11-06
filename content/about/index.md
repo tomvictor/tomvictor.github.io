@@ -1,5 +1,5 @@
 ---
-title: "Tom Victor Vithayathil  |  Embedded and Backend developer"
+title: "About"
 date: "2023-03-24"
 # description: ""
 tags: ["About", "Tom Victor Vithayathil"]
