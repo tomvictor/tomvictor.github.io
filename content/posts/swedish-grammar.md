@@ -4,7 +4,7 @@ date: "2023-11-11"
 # description: "Implementation of command design pattern in python"
 tags: ["Swedish"]
 categories: ["posts"]
-series: ["Swedish"]
+# series: ["Swedish"]
 aliases: ["learn-swedish"]
 # ShowToc: true
 # TocOpen: true
