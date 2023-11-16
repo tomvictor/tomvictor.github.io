@@ -1,7 +1,7 @@
 baseURL: "http://tomvictor.github.io/"
 title: tomvictor.dev
 paginate: 5
-theme: PaperMod
+theme: white
 languageCode: 'en-us'
 
 googleAnalytics:  G-DN3BSGRTR7
