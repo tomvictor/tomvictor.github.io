@@ -1,6 +1,6 @@
 ---
 title: "Learn Swedish - Grammar "
-date: "2023-11-11"
+date: "2023-11-20"
 # description: "Implementation of command design pattern in python"
 tags: ["Swedish"]
 categories: ["posts"]
