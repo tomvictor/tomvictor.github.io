@@ -1,5 +1,5 @@
 ---
-title: "C programming referance doc"
+title: "C programming reference doc"
 date: "2023-11-11"
 # description: "Implementation of command design pattern in python"
 tags: ["C"]
