@@ -1,10 +1,9 @@
 ---
-title: "C programming reference doc"
+title: "Refresh C Programming"
 date: "2023-11-11"
-# description: "Implementation of command design pattern in python"
+# description: "Refresh C Programming"
 tags: ["C"]
 categories: ["posts"]
-# series: ["Swedish"]
 aliases: ["c-programming"]
 # ShowToc: true
 # TocOpen: true
@@ -31,7 +30,7 @@ static uint8_t notify_func(struct bt_gatt_subscribe_params *params)
 }
 ```
 
-***Declare enumes as types***
+***Declare enums as types***
 
 ```C
 typedef enum {
