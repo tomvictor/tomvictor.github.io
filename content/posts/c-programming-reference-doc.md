@@ -31,18 +31,37 @@ static uint8_t notify_func(struct bt_gatt_subscribe_params *params)
 }
 ```
 
+***Declare enumes as types***
+
+```C
+typedef enum {
+    STRING,
+    NUMBERS,
+    COMPLEX,
+    DATATYPE_COUNT,
+    INVALID_SENSOR
+} sensor_datatype_t;
+```
+
 ***String initialisation to char pointer***
 
 ```C
 
-const char *p_target_device_mac_addr = "0C:8C:DC:41:E1:EF";
+const char *p_mac_addr = "0C:8C:DC:41:E1:EF";
 
 static void print_mac_addr(void)
 {
-    printk("value_handle : %d", params->value_handle)
+    printk("p_mac_addr : %s\n", p_mac_addr)
 }
 ```
 
+***String as function return values***
+
+```C
+char* get_sensor_mac_addr(void){
+    return p_mac_addr;
+}
+```
 
 ***Parse unsigned int from byte array pointer***
 
@@ -69,7 +88,6 @@ int32_t get_int_32(const uint8_t *array, size_t start_index) {
     return value;
 }
 ```
-
 
 ***Declaring function data-types and callback pattern***
 

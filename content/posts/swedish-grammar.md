@@ -12,6 +12,29 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
+### Mjuka och Hårda vokaler (Soft & Hard Vowels)
+
+
+|**A**|**O**|**U**|**Å**|
+|-----|-----|-----|-----|
+
+Eg: 
+* Gammal (old)
+* Gott (Tasty)
+* Kul (Fun)
+* Gå (walk)
+
+|**E**|**I**|**Y**|**Ä**|**Ö**|
+|-----|-----|-----|-----|-----|
+
+Eg:
+* Ge (Give)
+* Kypare (Waiter)
+* Gilla (Like)
+* Kärlek (Love)
+* Get (Goat)
+* Köpa (Buy)
+
 
 ### PERSONLIGA PRONOMEN
 | **Subjekt**       | **Objekt-Form**    |
