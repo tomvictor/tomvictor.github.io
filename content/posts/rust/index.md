@@ -343,3 +343,6 @@ The Borrow Checking mechanism is highly beneficial when working with concurrent 
 references and eliminates the need to worry about safety issues. By adhering to borrowing rules, we can confidently pass 
 variables between threads. However, if these rules are not followed, the code will not compile. This approach aids in identifying
 potential memory leaks during the compilation process.
+
+
+#### Check the GitHub repository for more examples : https://github.com/tomvictor/Rust
