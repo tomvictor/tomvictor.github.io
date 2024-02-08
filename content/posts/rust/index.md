@@ -1,7 +1,7 @@
 ---
 title: "Rust: Programming language for safety and speed"
 date: "2024-02-07"
-# description: "Implementation of command design pattern in python"
+# description: "Rust Programming"
 tags: ["Tutorial", "Rust"]
 categories: ["posts"]
 # series: ["Themes Guide"]
@@ -251,8 +251,10 @@ cleanup.
 ```rust
 fn moving_to_functions() {
     let s1 = "message 1".to_string();
-    another_function(s1); // the variable is moved here and not returning anything
-    println!("{}", s1);  // this will fail to compile since the ownership moved and variable dropped
+    // In the next line, variable is moved & not returning anything
+    another_function(s1);
+    // Next line will fail to compile since the ownership moved & variable dropped 
+    println!("{}", s1);  
 }
 
 fn another_function(msg: String) {
@@ -280,8 +282,7 @@ Rules;
 
 * At any given time there should be only one mutable reference to a variable.
 * But we can create infinite number of immutable references.
-* The references can not point to null, Rust will take care of the creation and destruction of the references. This
-  is achieved by a concept called lifetimes.
+* The references can not point to null, Rust will take care of the creation and destruction of the references. This is achieved by a concept called lifetimes.
 
 The reference is managed internally by using pointers like in C. But in Rust we do not need to deal the pointers
 directly
@@ -303,8 +304,10 @@ fn main() {
     println!("Reference and Borrowing in Rust");
     let currency = "Euro".to_string();
     println!("1. Default currency is {currency}");
-    check_currency(&currency); // Passing only the reference to another function
-    println!("2. Default currency is {currency}"); // It will works without any issue
+    // Passing only the reference to another function
+    check_currency(&currency);
+    //Now this will works without any issue
+    println!("2. Default currency is {currency}"); 
 }
 
 // Accept a immutable reference
@@ -327,8 +330,10 @@ to an `update_currency`. In the `update_currency` function we are de-referencing
 fn mutable_reference() {
     let mut currency = "".to_string();
     println!("1. Default currency is {currency}");
-    update_currency(&mut currency); // Passing the mutable reference to another function
-    println!("2. Default currency is {currency}"); // Print the updated value
+    // Passing the mutable reference to another function
+    update_currency(&mut currency); 
+    // Print the updated value
+    println!("2. Default currency is {currency}"); 
 }
 
 fn update_currency(currency: &mut String) {
