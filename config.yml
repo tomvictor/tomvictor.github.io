@@ -1,6 +1,6 @@
 baseURL: "http://tomvictor.github.io/"
 title: tomvictor.dev
-paginate: 5
+# paginate: 5
 theme: white
 languageCode: 'en-us'
 

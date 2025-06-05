@@ -12,10 +12,7 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
-
-
-
-```python:title=app/mixins.py {35,28-33}
+```python:title=app/mixins.py
 
 import os
 import shutil
