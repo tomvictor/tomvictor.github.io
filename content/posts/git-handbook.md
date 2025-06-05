@@ -2,7 +2,7 @@
 title: "Git Handbook for power users"
 date: "2025-06-05"
 # description: "Refresh C Programming"
-tags: ["C"]
+tags: ["git"]
 categories: ["posts"]
 aliases: ["git"]
 # ShowToc: true
