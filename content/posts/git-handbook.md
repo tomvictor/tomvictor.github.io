@@ -50,6 +50,20 @@ squash 456def Commit message 2
 squash 789ghi Commit message 3
 ```
 
+
+**Rename multiple commits messages**
+
+Use interactive rebase to rename multiple recent commits. Great for tidying up commit history before pushing.
+
+```bash
+git rebase -i HEAD~3
+
+You’ll see something like this in your text editor:
+
+reword 123abc Commit message 1
+reword 456def Commit message 2
+reword 789ghi Commit message 3
+```
 **Force push to remote(For diverged branch)**
 
 Force pushing is useful when your local branch history differs from the remote, such as after a rebase or amend.
