@@ -59,12 +59,12 @@ You can back it up, copy it between Macs, or open it in any text editor. It's yo
 ## Links
 
 - [Docs](https://tomvictor.dev/yledger)
-- [GitHub](github.com/tomvictor/yledger)
-- [Issue Tracker](github.com/tomvictor/yledger/issues)
+- [GitHub](https://github.com/tomvictor/ylegder)
+- [Issue Tracker](https://github.com/tomvictor/yledger/issues)
 
 ## Support
 
-Star the project on [GitHub](github.com/tomvictor/yledger) :)
+Star the project on [GitHub](https://github.com/tomvictor/yledger) :)
 
 For questions or bug reports, open an issue on GitHub or email **tom.victor@vinnter.se**.
 
