@@ -58,7 +58,7 @@ You can back it up, copy it between Macs, or open it in any text editor. It's yo
 
 ## Links
 
-- [Docs](https://tomvictor.dev/yledger)
+- [Docs](https://github.com/tomvictor/ylegder/blob/main/README.md)
 - [GitHub](https://github.com/tomvictor/ylegder)
 - [Issue Tracker](https://github.com/tomvictor/yledger/issues)
 
